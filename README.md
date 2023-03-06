@@ -7,7 +7,7 @@
 - Lernfeld 3
 - Lernfeld 4
 - Lernfeld 5
-- Lernfeld 6
+- [Lernfeld 6](./Lernfeld_6/Inhalt.md)
 - Lernfeld 7
 - Lernfeld 8
 - Lernfeld 9
